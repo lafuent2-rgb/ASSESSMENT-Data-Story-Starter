@@ -55,6 +55,12 @@ img,.story-graphic{
     max-width:100%;
     height:auto;
 }
+.story-graphic{
+    fill:var(--color-text);
+    font-family: Arial, sans-serif;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
 figcaption,.source-note{
     margin-top:.75rem;
     color:var(--color-muted);
