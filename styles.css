@@ -103,3 +103,15 @@ thead{
     stroke:var(--color-muted);
     stroke-width:8;
 }
+p,
+li,
+a,
+figcaption {
+    overflow-wrap: anywhere;
+}
+
+section,
+figure,
+.story-grid {
+    min-width: 0;
+}
